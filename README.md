@@ -80,7 +80,7 @@ Install via:
 
 ```bash
 pip install numpy pandas matplotlib scipy scikit-learn seaborn xgboost
-
+```
 ---
 
 ### ✅ Status
