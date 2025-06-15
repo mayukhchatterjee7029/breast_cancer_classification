@@ -92,6 +92,7 @@ Project is in a complete, testable state. Final model achieves **high accuracy (
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
 ## 🙏 Acknowledgments
 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) for providing the `Breast Cancer Diagnostic Dataset`
