@@ -1,6 +1,6 @@
 ## 🧬 Breast Cancer Classification (Wisconsin Dataset)
 
-This project performs classification on the **Breast Cancer Wisconsin (Diagnostic) Dataset** using multiple machine learning models, EDA techniques, and hyperparameter tuning. The goal is to predict whether a tumor is benign or malignant based on cell nucleus features.
+This project performs classification on the [**Breast Cancer Wisconsin (Diagnostic) Dataset**](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) using multiple machine learning models, EDA techniques, and hyperparameter tuning. The goal is to predict whether a tumor is benign or malignant based on cell nucleus features.
 
 ---
 
