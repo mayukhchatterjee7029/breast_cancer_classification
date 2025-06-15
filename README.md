@@ -88,3 +88,16 @@ pip install numpy pandas matplotlib scipy scikit-learn seaborn xgboost
 Project is in a complete, testable state. Final model achieves **high accuracy (\~95%)** on test data
 
 ---
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/) for providing the `Breast Cancer Diagnostic Dataset`
+-` Scikit-learn` community for excellent machine learning tools
+- Contributors and maintainers of all open-source libraries used in this project
+
+---
+
+⭐ If you found this project helpful, please consider giving it a star!
