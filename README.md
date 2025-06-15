@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/) for providing the `Breast Cancer Diagnostic Dataset`
--` Scikit-learn` community for excellent machine learning tools
+- `Scikit-learn` community for excellent machine learning tools
 - Contributors and maintainers of all open-source libraries used in this project
 
 ---
