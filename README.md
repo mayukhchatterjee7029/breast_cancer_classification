@@ -86,7 +86,7 @@ pip install numpy pandas matplotlib scipy scikit-learn seaborn xgboost
 
 ### ✅ Status
 
-Project is in a complete, testable state. Final model achieves **high accuracy (\~98.25%)** on test data
+Project is in a complete, testable state. Final model achieves **very high accuracy (\~98.25%)** on test data
 
 ---
 ## 📄 License
