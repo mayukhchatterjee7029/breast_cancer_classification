@@ -33,6 +33,7 @@ Key feature groups:
 * Standardized features using `StandardScaler`
 * Feature selection based on correlation thresholds
 * Dropped highly correlated features for Logistic Regression and SVM Classifier
+* Dropped `id` feature from the training set; as it's redundant
 
 ---
 
@@ -85,7 +86,7 @@ pip install numpy pandas matplotlib scipy scikit-learn seaborn xgboost
 
 ### ✅ Status
 
-Project is in a complete, testable state. Final model achieves **high accuracy (\~95%)** on test data
+Project is in a complete, testable state. Final model achieves **high accuracy (\~98.25%)** on test data
 
 ---
 ## 📄 License
