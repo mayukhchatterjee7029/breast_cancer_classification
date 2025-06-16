@@ -33,7 +33,7 @@ Key feature groups:
 * Standardized features using `StandardScaler`
 * Feature selection based on correlation thresholds
 * Dropped highly correlated features for Logistic Regression and SVM Classifier
-* Dropped `id` feature from the training set; as it's redundant
+* Dropped `id` column from the training set; as it's redundant
 
 ---
 
